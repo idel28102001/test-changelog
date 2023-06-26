@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.14.4](https://github.com/idel28102001/test-changelog/compare/v1.9.0...v1.14.4) (2023-06-26)
+
+
+### Bug Fixes
+
+* dasdasdsadasd ([02e33f7](https://github.com/idel28102001/test-changelog/commit/02e33f76221f503c31974a19e67c48edba1204fe))
+
+
+### Others
+
+* **release:** 1.14.1 ([8db7e9c](https://github.com/idel28102001/test-changelog/commit/8db7e9c20bdc24bcf526064e397613cb254982fc))
+* **release:** 1.14.2 ([f422084](https://github.com/idel28102001/test-changelog/commit/f4220840b28cc001ae4a4ee53f1ae5ba93bd2297))
+* **release:** 1.14.3 ([0306396](https://github.com/idel28102001/test-changelog/commit/0306396a44ca9c1a4107ccb0e71e4f55509d7422))
+
 ### [1.14.3](https://github.com/idel28102001/test-changelog/compare/v1.9.0...v1.14.3) (2023-06-26)
 
 
