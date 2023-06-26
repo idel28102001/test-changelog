@@ -2,3 +2,5 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 npm run release
+git add CHANGELOG.md
+git commit -m 'docs: CHANGELOG'
