@@ -9,6 +9,11 @@
     "release": "standard-version",
     "prepare": "husky install"
   },
+  "standard-version": {
+    "skip": {
+      "tag": true
+    }
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
