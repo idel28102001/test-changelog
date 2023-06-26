@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.14.1](https://github.com/idel28102001/test-changelog/compare/v1.9.0...v1.14.1) (2023-06-26)
+
+
+### Bug Fixes
+
+* dasdasdsadasd ([02e33f7](https://github.com/idel28102001/test-changelog/commit/02e33f76221f503c31974a19e67c48edba1204fe))
+
 ## [1.14.0](https://github.com/idel28102001/test-changelog/compare/v1.4.0...v1.14.0) (2023-06-26)
 
 
