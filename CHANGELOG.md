@@ -2,6 +2,38 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.28.0](https://github.com/idel28102001/test-changelog/compare/v1.14.9...v1.28.0) (2023-06-26)
+
+
+### Features
+
+* adsadsadsasd211111111111111111111222222222222 ([c31d13b](https://github.com/idel28102001/test-changelog/commit/c31d13bd0989a632340e3cacfeea1b1ab4401196))
+* das12das ([6a9500d](https://github.com/idel28102001/test-changelog/commit/6a9500df6bab32c69fd34b33e8477f93cf12d4a3))
+* dasdasdasdas ([24a5ee8](https://github.com/idel28102001/test-changelog/commit/24a5ee80ea8d59e52b96ab2c97215022e2ecb079))
+* dasdasdsadas ([43864f2](https://github.com/idel28102001/test-changelog/commit/43864f289e37b8a89f3e3aedffd7d567d739fd30))
+* dasdsadsadas ([27b75f2](https://github.com/idel28102001/test-changelog/commit/27b75f2f3325e9a9bb4a5b9d4e0988615f748bb0))
+
+
+### Bug Fixes
+
+* dasdsadasdsa ([4829fc6](https://github.com/idel28102001/test-changelog/commit/4829fc605482a2da12f25ed14fe053ce8bdad9cb))
+
+
+### Others
+
+* **release:** 1.15.0 ([1a4a2fb](https://github.com/idel28102001/test-changelog/commit/1a4a2fb43406b55a0afef24fd42da520ac82ac4a))
+* **release:** 1.16.0 ([a8c7692](https://github.com/idel28102001/test-changelog/commit/a8c76924e0d7e3161ce808f1c9c569b1eb423a85))
+* **release:** 1.17.0 ([21507a5](https://github.com/idel28102001/test-changelog/commit/21507a5b7131490dc78e42abc81dae3e09803c99))
+* **release:** 1.18.0 ([854459f](https://github.com/idel28102001/test-changelog/commit/854459f39a693e553d7acf2db525caa2cc10fca5))
+* **release:** 1.19.0 ([720a898](https://github.com/idel28102001/test-changelog/commit/720a8980db1ced34ae90b3a6bd21e6eb24f6dc47))
+* **release:** 1.20.0 ([213db67](https://github.com/idel28102001/test-changelog/commit/213db67d9643e20598180a0e0689159121a6a7b5))
+* **release:** 1.21.0 ([833f1ce](https://github.com/idel28102001/test-changelog/commit/833f1ce3052e6018ab521d85799142d6a4142cb9))
+* **release:** 1.22.0 ([8713acb](https://github.com/idel28102001/test-changelog/commit/8713acb4ce4063584ec248d5fdf26735903d32ac))
+* **release:** 1.23.0 ([8310d75](https://github.com/idel28102001/test-changelog/commit/8310d758a0b01a3c374a8e422634f68d51e4a669))
+* **release:** 1.24.0 ([3a08c19](https://github.com/idel28102001/test-changelog/commit/3a08c198d96cc9b40ef6aeae0633e5299161fe10))
+* **release:** 1.26.0 ([d60e6f6](https://github.com/idel28102001/test-changelog/commit/d60e6f6abae1bd8ea4e43da2daf0d9afa19a84cf))
+* **release:** 1.27.0 ([826258f](https://github.com/idel28102001/test-changelog/commit/826258f22344bb6298fbc85f73db396f8a700b04))
+
 ## [1.27.0](https://github.com/idel28102001/test-changelog/compare/v1.14.9...v1.27.0) (2023-06-26)
 
 
