@@ -1,6 +1,6 @@
 {
   "name": "test-changelog",
-  "version": "1.24.0",
+  "version": "1.25.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,6 @@
     "commit": "git-cz",
     "release": "standard-version",
     "prepare": "husky install"
-  },
-  "standard-version": {
-    "skip": {
-      "tag": true,
-      "commit": true
-    }
   },
   "keywords": [],
   "author": "",
