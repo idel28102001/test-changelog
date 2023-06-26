@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "commit": "git-cz",
-    "release": "standard-version"
+    "release": "standard-version",
+    "prepare": "husky install"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +15,7 @@
   "devDependencies": {
     "commitizen": "^4.3.0",
     "cz-conventional-changelog": "^3.3.0",
+    "husky": "^8.0.3",
     "standard-version": "^9.5.0"
   },
   "config": {
